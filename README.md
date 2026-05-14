@@ -5,7 +5,7 @@ Not tested for MSFS2020!
 
 ## What it does
 1. ECL/Display cursor sync (done by a virtual display and image detection for cursor position)
-2. State missmatch check every 10 seconds. If parking brake, fuel control switches, APU, APU running, CDU L&R scratchpad inputs mismatch between both users a windows notification is displayed.
+2. State missmatch checks every 10 seconds. If parking brake, fuel control switches, APU, APU running, CDU L&R scratchpad inputs mismatch between both users a windows notification is displayed.
 
 ## Based on
 1. [FS Copilot](https://fscopilot.com/)
