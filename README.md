@@ -1,0 +1,1 @@
+# Advanced-Shared-Cockpit-for-PMDG-777-and-MSFS2024
