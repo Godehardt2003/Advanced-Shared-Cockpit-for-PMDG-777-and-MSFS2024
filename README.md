@@ -23,7 +23,7 @@ EnableCDUBroadcast.1=1
 ```
 
 ## Steps
-1. Ensure that IPv6 is enabled on your computer. [test-ipv6](https://test-ipv6.com/). If ASC instantly closes after startup IPv6 might not be enabled. To enable it in Windows, go to Control Panel -> Network and Internet -> Network and Sharing Center -> Change adapter settings -> Select your adapter -> Properties -> Enable "Internet protocol version 6 (TCP/IPv6)".
+1. Ensure that IPv6 is enabled on your computer. [test-ipv6](https://test-ipv6.com/). If ASC instantly closes after startup, IPv6 might not be enabled. To enable it in Windows, go to Control Panel -> Network and Internet -> Network and Sharing Center -> Change adapter settings -> Select your adapter -> Properties -> Enable "Internet protocol version 6 (TCP/IPv6)".
 ![alt text](image-4.png)
 2. Install Virtual Display Driver and create a virtual display (800x600) https://github.com/VirtualDrivers/Virtual-Display-Driver
 ![VDD Install Driver](image.png)
@@ -37,9 +37,9 @@ If you don't want a virtual display, you should be able to place the WASM Instru
 ![alt text](image-1.png)
 8. Click "move window into virtual monitor". IMPORTANT: if you have different monitor sizes, you need to move the ASC Main Window INTO THE MONITOR WITH THE HIGHEST RESOLUTION BEFORE CLICKING "move windows into virtual monitor"!
 ![alt text](image-2.png)
-9. The window should now be disappeared (its inside the virtual monitor)
+9. The window should be disappeared now (its inside the virtual monitor)
 10. PF selects "Server" and clicks connect
-11. PM selects "Client" and clicks connect
+11. PM selects "Client", wait's 2-3 seconds and clicks connect
 12. Connection should be established after some seconds. State checking only starts after pressing one CDU button on both CDUs (on both sides (PF/PM)) to fill the screen character buffer. For example you can simply press "RTE".
 
 
