@@ -46,4 +46,7 @@ If you don't want a virtual display, you should be able to place the WASM Instru
 ## In case of program restart!
 If you restart ASC you have to press "move window into virtual monitor" then "get window back" then "move window into..." AGAIN!!! VERY IMPORTANT!
 
+## Support
+I'll give support on my PMDG 777 Weight And Balance Tool Discord Server which is another project by myself. Visit [https://skygroup-virtual.com/](https://skygroup-virtual.com/) and click on the Discord icon at the top menu.
+
 &copy; Tom Kadler
