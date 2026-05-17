@@ -3,6 +3,8 @@
 This tool extends and supports FS Copilot [website](https://fscopilot.com/) for a better PMDG 777 shared cockpit experience. It gives the opportunity to sync the Electronic Checklist Cursor by a quite big workaround. It uses an own developer IPv6 punching which only requires IPv6. No port forward or external server required! It is NOT an official PMDG product/service. All actions at your own risk!
 Not tested for MSFS2020!
 
+[RELEASES](https://github.com/Godehardt2003/Advanced-Shared-Cockpit-for-PMDG-777-and-MSFS2024/releases)
+
 ## What it does
 1. ECL/Display cursor sync (done by a virtual display and image detection for cursor position)
 2. State missmatch checks every 10 seconds. If parking brake, fuel control switches, APU, APU running, CDU L&R scratchpad inputs mismatch between both users a windows notification is displayed.
